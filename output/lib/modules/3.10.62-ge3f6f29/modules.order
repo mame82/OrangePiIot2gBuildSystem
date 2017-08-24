@@ -1,0 +1,7 @@
+kernel/drivers/net/wireless/rdaw80211/rdawlan/rdawfmac.ko
+kernel/drivers/usb/class/cdc-acm.ko
+kernel/drivers/usb/serial/usbserial.ko
+kernel/drivers/usb/serial/ftdi_sio.ko
+kernel/drivers/usb/serial/option.ko
+kernel/drivers/usb/serial/usb_wwan.ko
+kernel/drivers/hid/usbhid/usbhid.ko
