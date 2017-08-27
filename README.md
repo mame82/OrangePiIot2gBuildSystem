@@ -18,19 +18,17 @@ cd OrangePiIot2gBuidSystem
 
 2. Install sources (kernel and uboot):
 
-kernel download:
+     2.1 kernel download:
 
- git clone https://github.com/RDA8810/linux-RDA8810
+         git clone https://github.com/RDA8810/linux-RDA8810
 
- move rda8810 kernel
+         move linux-RDA8810 kernel
 
+     2.2 U-boot download:
 
+         git clone https://github.com/aib/u-boot-RDA8810
 
-3. u-boot download:
-
- git clone https://github.com/aib/u-boot-RDA8810
-
- move u-boot-RDA8810 uboot
+          move u-boot-RDA8810 uboot
 
 
 
