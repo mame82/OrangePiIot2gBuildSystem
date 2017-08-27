@@ -11,7 +11,7 @@ OUTPUT=${ROOT}/output
 clear
 # Import kernel configure
 if [ ! -f ${KERNEL}/.config ]; then
-    make -C ${KERNEL} ARCH=arm CROSS_COMPILE=${TOOL} OrangePi_2G-IOT_defconfig
+    make -C ${KERNEL} ARCH=arm CROSS_COMPILE=${TOOL} rda8810-rel_defconfig
 fi
 
 if [ $1 = "0" ]; then
