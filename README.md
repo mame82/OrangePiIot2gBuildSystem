@@ -7,7 +7,16 @@ Help: http://surfero.blogspot.com.es/2017/05/orange-pi-2g-iot-referencias.html
 
 System OS: 16.04.1-Ubuntu x64
 
-Install sources (kernel and uboot):
+
+1. Clone this reposity:
+
+git clone https://github.com/txurtxil/OrangePiIot2gBuidSystem
+
+cd OrangePiIot2gBuidSystem
+
+
+
+2. Install sources (kernel and uboot):
 
 kernel download:
 
@@ -17,7 +26,7 @@ kernel download:
 
 
 
-u-boot download:
+3. u-boot download:
 
  git clone https://github.com/aib/u-boot-RDA8810
 
