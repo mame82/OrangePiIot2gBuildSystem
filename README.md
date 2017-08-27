@@ -19,7 +19,7 @@ kernel download:
 
 u-boot download:
 
- git clone https://github.com/RDA8810/u-boot-RDA8810
+ git clone https://github.com/aib/u-boot-RDA8810
 
  move u-boot-RDA8810 uboot
 
