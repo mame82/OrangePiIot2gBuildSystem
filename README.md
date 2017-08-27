@@ -11,7 +11,7 @@ Install sources (kernel and uboot):
 
 kernel download:
 
- git clone https://github.com/RDA8810/u-boot-RDA8810
+ git clone https://github.com/RDA8810/linux-RDA8810
 
  move rda8810 kernel
 
