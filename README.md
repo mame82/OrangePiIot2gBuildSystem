@@ -10,7 +10,7 @@ System OS: 16.04.1-Ubuntu x64
 
 1. Clone this reposity:
 
-    1.1 git clone https://github.com/txurtxil/OrangePiIot2gBuidSystem
+    1.1 git clone https://github.com/txurtxil/OrangePiIot2gBuildSystem
 
     1.2 cd OrangePiIot2gBuidSystem
 
